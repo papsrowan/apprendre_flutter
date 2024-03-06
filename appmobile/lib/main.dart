@@ -22,7 +22,7 @@ class MyApp extends StatelessWidget {
         // reload" button in a Flutter-supported IDE, or press "r" if you used
         // the command line to start the app).
         //
-        // Notice that the counter didn't reset back to zero; the application
+        // Notice that the counter jnbkjndidn't reset back to zero; the application
         // state is not lost during the reload. To reset the state, use hot
         // restart instead.
         //
@@ -31,7 +31,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: const MyHomePage(title: 'Flutter Demo Home Page'),
+      home: const MyHomePage(title: 'Flutter Demnbho Home Page'),
     );
   }
 }
